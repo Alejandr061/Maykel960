@@ -34,6 +34,19 @@
 
 >Hola si
 
+- [ ] Barcelona
+- [X] Cuenca
+- [ ] Valencia
+- [ ] Pamplona
+- [X] Galicia
+
+
+
+
+
+
+
+
   1. Item 1
   3. Item 2
   4. Item 3
