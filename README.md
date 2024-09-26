@@ -1,9 +1,9 @@
-# Esto es un encabezado h1
-## Esto es un encabezado h2
-### Esto es un encabezado h3
-#### Esto es un encabezado h4
-##### Esto es un encabezado h5
-###### Esto es un encabezado h6
+# Soy Miguel Garcia
+## Vivo en Burriana
+### Tengo 18 años
+#### Me gusta la musica argentina
+##### Soy del arsenal
+###### Viva Raul Albiol
 
 **Texto en negrita de ejemplo**
 
